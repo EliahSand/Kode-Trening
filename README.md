@@ -1,6 +1,6 @@
 # Kodeoppgaver
 
-Velkommen, her e det flere kodeoppgaver fra forskjellige nettsider.
+Velkommen, her er det flere kodeoppgaver fra forskjellige nettsider. 
 
 nettsider:
 
