@@ -1,5 +1,4 @@
-Her er det problemer fra Vjudgene fra USM i Chile.\
-Sortert etter tema.
+Her er det problemer fra Vjudge noenlunde sortert etter tema.\
 
  Hentet fra: https://vjudge.net/problem
 
